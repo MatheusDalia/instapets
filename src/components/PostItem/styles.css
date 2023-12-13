@@ -1,0 +1,33 @@
+.post {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-top: 20px;
+    background: white;
+    border-radius: 10px;
+    /* font-family: Poppins; */
+
+  }
+.post-title{
+  color: rgb(31, 30, 30);
+  display: flex;
+  align-items: center;
+}
+
+.post-user {
+  margin-right: 10px; /* Adjust the space as needed */
+}  
+  .post img {
+    max-width: 100%;
+    height: auto;
+  }
+  /* Add these styles to your styles.css */
+.post-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.timestamp {
+  color: rgb(31, 30, 30);
+  margin-left: auto; /* Aligns the timestamp to the right */
+}

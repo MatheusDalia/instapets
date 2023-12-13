@@ -1,0 +1,25 @@
+.dashboard-container {
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .dashboard-container h2 {
+    margin-bottom: 20px;
+  }
+  
+  .dashboard-container button {
+    padding: 5px 15px;
+  }
+
+  .create-new-post{
+    width:238px;
+    height: 50px;
+    background-color: #FFFFFF;
+    color: #6272A4;
+    font-family: Poppins;
+  }
